@@ -1,6 +1,7 @@
 * Roadmap
   * Research ideation
   * Incorporate data-driven and literature-grounded [hypothesis generation](https://github.com/ChicagoHAI/hypothesis-generation) into hypogenic.ai
+  * Incorporate domain specific knowledge and tools
   * Expand the research plan
   * Automate part of the experiments
   * Accurate budget estimation
