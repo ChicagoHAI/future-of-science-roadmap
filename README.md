@@ -13,7 +13,7 @@ The goal of this repo is to curate resources for shaping the future of science. 
   * Automate part of the experiments
   * Accurate budget estimation
   * Evaluation
-    * [Evaluating the evidence](https://www.qedscience.com/)
+    * [Evaluating the evidence, qedscience](https://www.qedscience.com/)
   * Report draft
   * Proposal draft
 
