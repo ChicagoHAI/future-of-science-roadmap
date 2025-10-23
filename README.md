@@ -1,6 +1,6 @@
 The goal of this repo is to curate resources for shaping the future of science. We believe that [technical advances must support selection and evaluation, not just automation](https://cichicago.substack.com/p/the-mirage-of-autonomous-ai-scientists). We provide a roadmap that breaks down related tasks. The full picture is rich and we welcome contributions and discussions!
 
-* Roadmap
+# Roadmap
   * Research ideation
     * [hypogenic AI](https://hypogenic.ai), support community discovery
   * Incorporate data-driven and literature-grounded hypothesis generation
@@ -15,7 +15,7 @@ The goal of this repo is to curate resources for shaping the future of science. 
   * Report draft
   * Proposal draft
 
-* Relevant resources:
+ # Relevant resources:
   * Paper writing
     * [Proof reading technical details](https://www.refine.ink/)
   * Full automation
