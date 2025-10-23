@@ -1,3 +1,5 @@
+<img width="1800" height="600" alt="c4b7747f4f138d595f2f5a2160244ecd" src="https://github.com/user-attachments/assets/debc5d7c-b73e-4aa4-b05b-fa1d0f15475d" />
+
 The goal of this repo is to curate resources for shaping the future of science. We believe that [technical advances must support selection and evaluation, not just automation](https://cichicago.substack.com/p/the-mirage-of-autonomous-ai-scientists). We provide a roadmap that breaks down related tasks. The full picture is rich and we welcome contributions and discussions!
 
 # Roadmap
