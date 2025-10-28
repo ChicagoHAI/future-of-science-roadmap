@@ -13,6 +13,7 @@ The goal of this repo is to curate resources for shaping the future of science. 
   * Incorporate domain specific knowledge and tools
   * Expand the research plan
   * Automate part of the experiments
+    * [remyx.ai](https://www.remyx.ai/) 
   * Accurate budget estimation
   * Evaluation
     * [Evaluating the evidence, qedscience](https://www.qedscience.com/)
