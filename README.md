@@ -32,3 +32,4 @@ The goal of this repo is to curate resources for shaping the future of science. 
   * Other
     * [scienceOS](https://www.scienceos.ai/)
     * [scite](https://scite.ai/)
+    * [Claude Scientific Skills](https://github.com/K-Dense-AI/claude-scientific-skills)
